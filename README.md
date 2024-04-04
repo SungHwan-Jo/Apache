@@ -27,7 +27,7 @@
 |Ubuntu|22.04.2|-|
 |httpd|2.4.48|-|
 
-위 버전을 기준으로 Ubuntu 환경에서 Install 하였습니다.
+위 버전을 기준으로 Ubuntu 환경에서 Install 하였습니다. <br>
 httpd, pcre, apr, apr-util, openssl Source 파일을 압축하여 Release에 Update 하였습니다. <br>
 **1. 서버에서 다운로드**
 ```
